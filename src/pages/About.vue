@@ -4,7 +4,7 @@
       <!-- Foto de Perfil -->
       <div class="w-32 h-32 md:w-48 md:h-48 rounded-full bg-gradient-to-tr from-ig-gradient-start via-ig-gradient-mid to-ig-gradient-end p-1 flex-shrink-0">
         <div class="w-full h-full rounded-full bg-gray-200 flex items-center justify-center text-gray-500 text-sm overflow-hidden">
-          <img src="/profile.jpg" alt="Wallison Ferreira" class="w-full h-full object-cover">
+          <img src="../../public/profile.jpg" alt="Wallison Ferreira" class="w-full h-full object-cover">
         </div>
       </div>
 
